@@ -1,3 +1,3 @@
 # Age_recognition
  
-A little project to estimate human faces age in streaming video
+A little project to estimate peoples' age by analising their faces in streaming video
